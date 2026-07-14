@@ -2,7 +2,7 @@
 
 An end-to-end machine learning project that predicts whether a customer will make a purchase, based on demographic and behavioral features. Includes full EDA, model training/evaluation, and a live interactive Streamlit deployment.
 
-**Live app:** _add your Streamlit Cloud URL here after deployment_
+**Live app:** https://customer-purchase-behavior-mcf396ffl4fryn9jwrzwq3.streamlit.app/
 
 ## Dataset
 
